@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "385061416539",
+    "firebase_url": "https://shortcut-the-easy-access.firebaseio.com",
+    "project_id": "shortcut-the-easy-access",
+    "storage_bucket": "shortcut-the-easy-access.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385061416539:android:97c3742167bfa428",
+        "android_client_info": {
+          "package_name": "com.mohit.mohitgupta.shortcut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385061416539-oavskgc504eta34p52sarep8jsi5qe1q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohit.mohitgupta.shortcut",
+            "certificate_hash": "388c50a108e2701fe29b4167e69c196cea90a945"
+          }
+        },
+        {
+          "client_id": "385061416539-2g4afsjgrqo95iqhkt00pr4qn2v9hgcc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhn6u2Xkx6L09OCd1t3cPYw5aunfh8r8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385061416539-2g4afsjgrqo95iqhkt00pr4qn2v9hgcc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
